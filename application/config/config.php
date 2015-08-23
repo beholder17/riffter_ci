@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://rich_t.ru/';
+$config['base_url']	= 'http://riffter_ci.ru/';
 
 /*
 |--------------------------------------------------------------------------
@@ -226,7 +226,7 @@ $config['cache_path'] = '';
 | MUST set an encryption key.  See the user guide for info.
 |
 */
-$config['encryption_key'] = 'ewejklrj#rlekk293';
+$config['encryption_key'] = 'eweoiu_=rj#rk293';
 
 /*
 |--------------------------------------------------------------------------
@@ -248,7 +248,7 @@ $config['encryption_key'] = 'ewejklrj#rlekk293';
 */
 $config['sess_cookie_name']		= 'ci_session';
 //$config['sess_expiration']		= 7200;
-$config['sess_expiration']		= 2160000;
+$config['sess_expiration']		= 7200;
 $config['sess_expire_on_close']	= FALSE;
 $config['sess_encrypt_cookie']	= FALSE;
 $config['sess_use_database']	= TRUE;
