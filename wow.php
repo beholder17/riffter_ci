@@ -1,3 +1,3 @@
 <?php
-echo "wow 2 gffd sf";
+echo "Wow 2 gffd sF";
 ?>

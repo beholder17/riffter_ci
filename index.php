@@ -1,4 +1,4 @@
 <?php
-echo "negro hello world!!!---";
-echo "this is commited. <br> this will write automatically!!!---";
+echo "Negro hello worlD!!!---";
+echo "This is commited. <br> this will write automaticallY!!!---";
 ?>
