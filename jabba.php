@@ -1,7 +1,7 @@
 <?
 //asdsdaweewq
-$a = 1;
-$b = 2;
+$a = 13;
+$b = 42;
 $c = $a + $b;
 echo $c;
 ?>
