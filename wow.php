@@ -1,3 +1,3 @@
 <?php
-echo "wow";
+echo "wow 2";
 ?>
