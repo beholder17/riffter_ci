@@ -12,7 +12,7 @@ class Main extends MX_Controller {
 	public function index($page_alias=null)
 	{
 		
-		// Получаем меню для сайдбара   
+		// Получаем меню для сайдбара
 		$this->load->model('commerce/commerce_m');
 		$data['subcategory'] = $this->commerce_m->get_all_subcategories();
 		$data['category'] = $this->commerce_m->get_all_categories();

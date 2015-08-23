@@ -38,15 +38,7 @@
 |
 */
 $route['404'] = "404";
-//$route['default_controller'] = "main";
-if (file_exists(APPPATH . 'modules/lang'))
-{
-    $route['default_controller'] = "lang";
-    $route['(ru|en|tr)'] = $this->config->item('default_controller');
-    $route['(ru|en|tr)/lang/switcher'] = "lang/switcher";
-} else {
-    $route['default_controller'] = $this->config->item('default_controller');
-}
+$route['default_controller'] = "main";
 
 
 $route['404_override'] = 'main/notfound';
