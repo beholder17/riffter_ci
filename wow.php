@@ -1,3 +1,3 @@
 <?php
-echo "Wow 2 gffd sF";
+echo "this is ci!!! SPARTAAA!!!";
 ?>
